@@ -42,16 +42,16 @@ SOFTWARE REQUIREMENT :
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![](https://drive.google.com/file/d/1vBIavNzoAdoIhC4oFy945tOTTOjjINUf/view?usp=drive_link)
+![SYSTEM](https://drive.google.com/file/d/1vBIavNzoAdoIhC4oFy945tOTTOjjINUf/view?usp=drive_link)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-![](https://drive.google.com/file/d/1PiTPoLEGcJ4qyc5vZF7ubSNfOAZGrQJn/view?usp=drive_link)
+![OP_1](https://drive.google.com/file/d/1PiTPoLEGcJ4qyc5vZF7ubSNfOAZGrQJn/view?usp=drive_link)
 #### Output1 - Name of the output
 
-![](https://drive.google.com/file/d/1KFVMRFNbWlvI_ZN2NduaJD4NzDtGdxvP/view?usp=drive_link)
+![OP_2](https://drive.google.com/file/d/1KFVMRFNbWlvI_ZN2NduaJD4NzDtGdxvP/view?usp=drive_link)
 
 
 
