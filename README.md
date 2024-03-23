@@ -41,7 +41,7 @@ SOFTWARE REQUIREMENT :
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-![SYSTEM](https://drive.google.com/uc?export=download&id=1vBIavNzoAdoIhC4oFy945tOTTOjjINUf)
+![SYSTEM](https://github.com/harishsekar1402/OHSCA/blob/master/Assets/Screenshot%202024-03-22%20120247.png)
 
 
 ## Output
