@@ -41,16 +41,17 @@ SOFTWARE REQUIREMENT :
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-![SYSTEM](https://github.com/harishsekar1402/OHSCA/blob/master/Assets/Screenshot%202024-03-22%20120247.png)
+
+![SYSTEM](https://github.com/harishsekar1402/OHSCA/blob/master/Assets/Screenshot%202024-03-23%20134017.png)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-![OP_1](https://drive.google.com/file/d/1PiTPoLEGcJ4qyc5vZF7ubSNfOAZGrQJn/view?usp=drive_link)
-#### Output1 - Name of the output
+![OP_1](https://github.com/harishsekar1402/OHSCA/blob/master/Assets/Screenshot%202024-03-22%20120247.png)
+#### Output1 - USER_LIST
 
-![OP_2](https://drive.google.com/file/d/1KFVMRFNbWlvI_ZN2NduaJD4NzDtGdxvP/view?usp=drive_link)
+![OP_2](https://github.com/harishsekar1402/OHSCA/blob/master/Assets/Screenshot%202024-03-22%20120412.png)
 
 
 
