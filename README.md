@@ -41,8 +41,7 @@ SOFTWARE REQUIREMENT :
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
-
-![SYSTEM](https://drive.google.com/file/d/1vBIavNzoAdoIhC4oFy945tOTTOjjINUf/view?usp=drive_link)
+![](https://drive.google.com/uc?export=download&id=1vBIavNzoAdoIhC4oFy945tOTTOjjINUf)
 
 
 ## Output
