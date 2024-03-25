@@ -28,15 +28,16 @@ entire user experience in confronting every day household problems
 ## Requirements
 <!--List the requirements of the project as shown below-->
 HARDWARE REQUIREMENT :
--⮚ i3 Processor Based Computer or higher
--⮚ Memory: 1 GB
--⮚ Hard Drive: 50 GB
--⮚ Monitor
--⮚ Internet Connection
+- ⮚ i3 Processor Based Computer or higher
+- ⮚ Memory: 1 GB
+- ⮚ Hard Drive: 50 GB
+- ⮚ Monitor
+- ⮚ Internet Connection
+  
 SOFTWARE REQUIREMENT :
--⮚ Windows 7 or higher
--⮚ Visual Studio
--⮚ Google Chrome Browser
+- ⮚ Windows 7 or higher
+- ⮚ Visual Studio
+- ⮚ Google Chrome Browser
 
 
 ## System Architecture
