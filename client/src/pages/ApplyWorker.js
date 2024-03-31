@@ -97,7 +97,7 @@ const ApplyWorker = () => {
           </Col>
           <Col xs={24} md={24} lg={8}>
             <Form.Item
-              label="Address"
+              label="Location"
               name="address"
               required
               rules={[{ required: true }]}

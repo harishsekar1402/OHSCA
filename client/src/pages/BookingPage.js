@@ -108,6 +108,7 @@ const BookingPage = () => {
               Mr. {workers.firstName} {workers.lastName}
             </h4>
             <h4>Fees : {workers.feesPerConsultation}</h4>
+            <h4>Location : {workers.address}</h4>
             <h4>
               Timings : {workers.timings && workers.timings[0]} -{" "}
               {workers.timings && workers.timings[1]}{" "}

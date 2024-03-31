@@ -15,16 +15,19 @@ const WorkerList = ({ worker }) => {
         </div>
         <div className="card-body">
           <p>
-            <b>Specialization</b> {worker.specialization}
+            <b>Specialization : </b> {worker.specialization}
           </p>
           <p>
-            <b>Experience</b> {worker.experience}
+            <b>Location : </b> {worker.address}
           </p>
           <p>
-            <b>Fees Per Consultation</b> {worker.feesPerConsultation}
+            <b>Experience : </b> {worker.experience}
           </p>
           <p>
-            <b>Timings</b> {worker.timings[0]} - {worker.timings[1]}
+            <b>Fees Per Consultation : </b> {worker.feesPerConsultation}
+          </p>
+          <p>
+            <b>Timings : </b> {worker.timings[0]} - {worker.timings[1]}
           </p>
         </div>
       </div>

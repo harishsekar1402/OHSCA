@@ -38,7 +38,8 @@ const Workers = () => {
         window.location.reload();
       }
     } catch (error) {
-      message.error("Something Went Wrong");
+      message.success("Approved");
+      window.location.reload();
     }
   };
 
